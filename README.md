@@ -35,11 +35,3 @@
 
 
 ------
-
-
-作者 *Laziji*
-
-
-
-  [1]: https://GitHub-Pen.github.io
-  [2]: https://github.com/GitHub-Pen/GitHub-Pen.github.io
