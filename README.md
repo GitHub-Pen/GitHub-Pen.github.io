@@ -14,10 +14,10 @@
 喜欢的话留下你的星星╭(●｀∀´●)╯╰(●’◡’●)╮
 
 ## 演示地址
-[https://GitHub-Pen.github.io][1]
+https://GitHub-Pen.github.io
 
 ## 项目源码来源
-[https://github.com/GitHub-Laziji/vblog][3]
+https://github.com/GitHub-Laziji/vblog
 
 ## 快速使用
 搭建博客只需2步
