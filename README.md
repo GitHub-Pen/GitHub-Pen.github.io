@@ -26,7 +26,7 @@ https://github.com/GitHub-Laziji/vblog
 
 类似演示地址其中 GitHub-Laziji 为我的用户名
 
-现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://GitHub-Pen.github.io][1]
+现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://GitHub-Pen.github.io]
 
 
 #### 获取Token
