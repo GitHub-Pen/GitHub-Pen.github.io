@@ -28,7 +28,6 @@ https://github.com/GitHub-Laziji/vblog
 
 现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://GitHub-Pen.github.io]
 
-
 #### 获取Token
 
 在 ```github > settings > Developer settings > Personal access tokens```  勾选```gist``` 和 ```repo```权限 获取```Token```
